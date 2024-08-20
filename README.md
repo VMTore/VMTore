@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Music Hunters](https://github.com/VMTore/FinalProject-MusicHunters)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **UX/UI**
 
 - 📫 How to reach me **veronicamt85@gmail.com**
 
